@@ -1,0 +1,299 @@
+C:\Users\Umayahx\Desktop\SQLiteFormsApp (1)\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Form1.resources
+C:\Users\Umayahx\Desktop\OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Form1.resources
+C:\Users\Umayahx\Desktop\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Teachers.resources
+D:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+D:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+D:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+D:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+D:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+D:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+D:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Form1.resources
+D:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+D:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Teachers.resources
+D:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+E:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+E:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+E:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+E:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+E:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+E:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+E:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Form1.resources
+E:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+E:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Teachers.resources
+E:\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\tahsin7064\Desktop\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\tahsin7064\Desktop\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\tahsin7064\Desktop\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\tahsin7064\Desktop\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\tahsin7064\Desktop\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\tahsin7064\Desktop\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\tahsin7064\Desktop\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditDatabaseMenu.resources
+C:\Users\tahsin7064\Desktop\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Form1.resources
+C:\Users\tahsin7064\Desktop\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\tahsin7064\Desktop\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Teachers.resources
+C:\Users\tahsin7064\Desktop\NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+E:\NEAnew\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+E:\NEAnew\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+E:\NEAnew\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+E:\NEAnew\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+E:\NEAnew\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+E:\NEAnew\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+E:\NEAnew\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditDatabaseMenu.resources
+E:\NEAnew\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Form1.resources
+E:\NEAnew\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+E:\NEAnew\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Teachers.resources
+E:\NEAnew\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditDatabaseMenu.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Form1.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Teachers.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\UPDATED NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Subjects.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditDatabaseMenu.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Form1.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Subjects.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Teachers.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditDatabaseMenu.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Form1.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Subjects.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Teachers.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\UPDATED NEA - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditDatabaseMenu.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Form1.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Subjects.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Teachers.resources
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\UPDATED NEA - best\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Class.resources
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ClassForm.resources
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.MainMenuForm.resources
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SlotsForm.resources
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SubjectsForm.resources
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeachersForm.resources
+C:\Users\Umayahx\Desktop\Umayah Official NEA\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TimetableForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ClassForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.MainMenuForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SlotsForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SubjectsForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeachersForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TimetableForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\moksu\Desktop\Tution\Student 005\2018 22 03\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ClassForm.resources
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.MainMenuForm.resources
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SubjectsForm.resources
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeachersForm.resources
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TimetableForm.resources
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ConnectDatabaseForm.resources
+C:\Users\Umayahx\Desktop\Project\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.BookingForm.resources
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ClassForm.resources
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ConnectDatabaseForm.resources
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.MainMenuForm.resources
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.BookingForm.resources
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SubjectsForm.resources
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeachersForm.resources
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TimetableForm.resources
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\NEA updated\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditDbForm.resources
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ClassForm.resources
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ConnectDatabaseForm.resources
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditDbForm.resources
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.MainMenuForm.resources
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.BookingForm.resources
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SubjectsForm.resources
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeachersForm.resources
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TimetableForm.resources
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\NEA updated - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ClassForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ConnectDatabaseForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditDbForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.MainMenuForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.BookingForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SubjectsForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeachersForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TimetableForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.DeploymentForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ClassForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ConnectDatabaseForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.DeploymentForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditDbForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.MainMenuForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.BookingForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SubjectsForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeachersForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TimetableForm.resources
+C:\Users\Umayahx\Desktop\NEA Final 280318 - Copy - Copy\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\NEW IDEA\NEA Students draft\UMAYAH OFFICIAL NEA\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\NEW IDEA\NEA Students draft\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\NEW IDEA\NEA Students draft\UMAYAH OFFICIAL NEA\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.BlocksForm.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ClassForm.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ConnectDatabaseForm.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.DeploymentForm.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditDbForm.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.MainMenuForm.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.BookingForm.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.StudentForm.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SubjectsForm.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeachersForm.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TimetableForm.resources
+C:\Users\Umayahx\Desktop\NEW IDEA\Main Project Solution\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ConnectDatabaseForm.resources
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.DeploymentForm.resources
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.MainMenuForm.resources
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.StudentForm.resources
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SubjectsForm.resources
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeachersForm.resources
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TimetableForm.resources
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditTablesForm.resources
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.StudentSubjectForm.resources
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.StudentTimetableForm.resources
+C:\Users\Umayahx\Desktop\Best Project\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeacherTimetableForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ConnectDatabaseForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.DeploymentForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditTablesForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.MainMenuForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.StudentForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.StudentSubjectForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.StudentTimetableForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SubjectsForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeachersForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeacherTimetableForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TimetableForm.resources
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\moksu\Desktop\Tution\Student 005\Project120418\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe.config
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.exe
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\bin\Debug\SQLiteFormsApp.pdb
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.ConnectDatabaseForm.resources
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.EditTablesForm.resources
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.MainMenuForm.resources
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.Properties.Resources.resources
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.StudentForm.resources
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.StudentSubjectForm.resources
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.StudentTimetableForm.resources
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.SubjectsForm.resources
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeachersForm.resources
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TeacherTimetableForm.resources
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.TimetableForm.resources
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.csproj.GenerateResource.Cache
+C:\Users\Umayahx\Desktop\Project120418\SQLiteFormsApp\obj\Debug\SQLiteFormsApp.RoomForm.resources
